@@ -1,0 +1,8 @@
+*.odb
+*.def
+*.gds.gz
+*.log
+*.tmp
+*.jou
+*.rpt
+__pycache__/
