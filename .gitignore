@@ -1,8 +1,14 @@
 *.odb
+*.gds
 *.def
-*.gds.gz
+*.spef
+*.vcd
 *.log
 *.tmp
-*.jou
 *.rpt
+*.db
+objects/
+logs/
+results/
+build/
 __pycache__/
